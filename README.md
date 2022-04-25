@@ -5,5 +5,5 @@
 - 🌱 I’m currently learning Asp.net core
 - 👯 I’m looking to collaborate on Freelance projects
 - 💬 Ask me about Programming
-- 📫 Reach me at my Website <a href="http://omidp.ir">omidp.ir</a>
+- 📫 Reach me at my website <a href="http://omidp.ir">omidp.ir</a>
 
