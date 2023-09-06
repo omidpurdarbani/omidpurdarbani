@@ -13,7 +13,7 @@
 
 
 <br><br>
-[![trophy](https://github-profile-trophy.vercel.app/?username=omidpurdarbani&theme=onedark)]
+![](https://github-profile-trophy.vercel.app/?username=omidpurdarbani&theme=onedark)
 
 ![](https://github-readme-stats.vercel.app/api?username=omidpurdarbani&theme=light&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=omidpurdarbani&theme=light&hide_border=false)<br/>
