@@ -1,8 +1,6 @@
 
-| [![Omid Purdarbani](https://img.shields.io/badge/Omid-Purdarbani-<COLOR>.svg)](https://github.com/omidpurdarbani/) | ![Profile Views](https://komarev.com/ghpvc/?username=omidpurdarbani&color=green) | ![Followers](https://img.shields.io/github/followers/omidpurdarbani) | ![Stars](https://img.shields.io/github/stars/omidpurdarbani?label=Profile%20Stars&logo=Profile%20stars&logoColor=g) |
---| --| --| --|
-<br/><br/>
-![](https://github-profile-trophy.vercel.app/?username=omidpurdarbani&theme=onedark)<br/><br/>
+ [![Omid Purdarbani](https://img.shields.io/badge/Omid-Purdarbani-<COLOR>.svg)](https://github.com/omidpurdarbani/)  ![Profile Views](https://komarev.com/ghpvc/?username=omidpurdarbani&color=green) ![Followers](https://img.shields.io/github/followers/omidpurdarbani)  ![Stars](https://img.shields.io/github/stars/omidpurdarbani?label=Profile%20Stars&logo=Profile%20stars&logoColor=g) 
+
 
 ### Hi guys 👋
 
@@ -13,9 +11,10 @@
 - 💬 Ping me about Development and Algorithms .<br>
 - 📫 Reach me at my website <a href="http://omidcv.ir">omidcv.ir</a>
 
+<br/>
 
-<br><br>
-
+![](https://github-profile-trophy.vercel.app/?username=omidpurdarbani&theme=onedark)<br/>
+<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=omidpurdarbani&theme=onedark&hide_border=false)<br/>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=omidpurdarbani&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
