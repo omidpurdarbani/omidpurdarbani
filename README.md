@@ -2,7 +2,7 @@
  [![Omid Purdarbani](https://img.shields.io/badge/Omid-Purdarbani-<COLOR>.svg)](https://github.com/omidpurdarbani/)  ![Profile Views](https://komarev.com/ghpvc/?username=omidpurdarbani&color=green) ![Followers](https://img.shields.io/github/followers/omidpurdarbani)  ![Stars](https://img.shields.io/github/stars/omidpurdarbani?label=Profile%20Stars&logo=Profile%20stars&logoColor=g) 
 
 
-### Hey 👋
+<b>Hey</b> 👋
 
 
 - 🔭 I’m currently working on Web development 
