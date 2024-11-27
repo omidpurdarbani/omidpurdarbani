@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on Web development projects
 - 🌱 I’m currently using Asp.net core  
 - 👯 I’m looking to collaborate on Freelance projects
-- 💬 Ping me about Development and Algorithms .<br>
+- 💬 Ping me about Development and Algorithms <br>
 - 📫 Reach me at my website <a href="http://omidcv.ir">omidcv.ir</a>
 
 <br/>
